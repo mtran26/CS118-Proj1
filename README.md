@@ -6,7 +6,7 @@ UCLA Computer Science 118, Computer Network Fundamentals
 Winter 2017
 Project 1
 
-Simple HTTP Client and Server 
+Simple HTTP Client and Server: 
 The project entails developing a server program that listens for HTTP requests through a TCP socket and sends the requested file along
 with an HTTP response message to the client. 
 
